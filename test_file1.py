@@ -3,3 +3,6 @@ print(a)
 
 b = "I like idli vada"
 print(b)
+
+c = "I like panipuri"
+print(c)
